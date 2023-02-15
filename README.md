@@ -301,3 +301,11 @@ In the following destination, select this file.
 Rename the file to remove the word "sample".          
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/xoTbK8R.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In security properties for the file, click 'Advanced'.           
+</p>
+<br />

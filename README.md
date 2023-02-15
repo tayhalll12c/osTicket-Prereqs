@@ -370,6 +370,6 @@ Type in a helpdesk name and email. In this case, both are samples.
 <img src="https://i.imgur.com/eWRklBM.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Type in the remaining credentials. (samples in image)               
+Type in the remaining credentials. (image contains samples)               
 </p>
 <br />

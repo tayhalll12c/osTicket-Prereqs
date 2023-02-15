@@ -373,3 +373,11 @@ Type in a helpdesk name and email. In this case, both are samples.
 Type in the remaining credentials. (image contains samples)               
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/Y4sFwAg.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Install HeidiSQL (file provided by instructor) which in this case acts as a database client.                
+</p>
+<br />

@@ -173,3 +173,11 @@ Click 'PHP Manager'.
 Click 'Register new PHP version'.       
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/kjRCfOL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Provide a path to php-cgi executable.       
+</p>
+<br />

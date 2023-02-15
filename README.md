@@ -117,3 +117,11 @@ Select the 'Typical' installation box.
 Click 'Finish' and launch the MySQL Instance Configuration Wizard.   
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/jGasxIh.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In the Configuration Wizard, select 'Standard Configuration'.   
+</p>
+<br />

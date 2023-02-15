@@ -157,3 +157,11 @@ Select 'Execute' and finish the Configuration.
 Run IIS as an administrator.      
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/1ZGhjQw.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Click 'PHP Manager'.      
+</p>
+<br />

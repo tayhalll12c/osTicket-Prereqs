@@ -285,3 +285,19 @@ Enable 'php_opcache.dll'.
 Refresh osTicket in browser and observe changes.        
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/BFPFW8c.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In the following destination, select this file.         
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/BFPFW8c.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Rename the file to remove the word "sample".          
+</p>
+<br />

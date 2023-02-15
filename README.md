@@ -85,3 +85,11 @@ Create a new folder in the C: drive titled "PHP"
 Install PHP 7.3.8 files (also provided by instructor) and extract contents into PHP folder that was created in C: drive  
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/4IO4z8i.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Install Microsoft Visual C++ Redistributable (also provided by instructor) 
+</p>
+<br />

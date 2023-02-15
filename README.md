@@ -205,3 +205,11 @@ Install osTicket file (provided by instructor in this case)
 Inside the osTicket file, drag its 'upload' folder into the following destination: C:> inetpub> wwwroot       
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/FH2fnHm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Rename 'upload' folder to "osTicket".      
+</p>
+<br />

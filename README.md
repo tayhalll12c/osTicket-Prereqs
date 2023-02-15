@@ -303,7 +303,7 @@ Rename the file to remove the word "sample".
 <br />
 
 <p>
-<img src="https://i.imgur.com/xoTbK8R.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xoTbK8R.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In security properties for the file, click 'Advanced'.           

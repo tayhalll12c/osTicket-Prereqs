@@ -149,3 +149,11 @@ Type in a password that you will remember later.
 Select 'Execute' and finish the Configuration.      
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/MkahFnx.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Run IIS as an administrator.      
+</p>
+<br />

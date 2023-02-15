@@ -394,6 +394,6 @@ Click 'New'.
 <img src="https://i.imgur.com/i6EFWrx.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Type in the credentials from the MySQL configuration wizard. In this case, the username is "root" and whichever password was created.                 
+Type in the credentials from the MySQL configuration wizard from earlier. In this case, the username is "root" and whichever password was created.                 
 </p>
 <br />

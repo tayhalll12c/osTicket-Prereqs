@@ -93,3 +93,27 @@ Install PHP 7.3.8 files (also provided by instructor) and extract contents into 
 Install Microsoft Visual C++ Redistributable (also provided by instructor) 
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/nJFHrQa.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Open MySQL 5.5 setup wizard (also provided by instructor)  
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/nJFHrQa.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Select the 'Typical' installation box.   
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/TyfgV7B.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Click 'Finish' and launch the MySQL Instance Configuration Wizard.   
+</p>
+<br />

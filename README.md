@@ -317,3 +317,11 @@ In security properties for the file, click 'Advanced'.
 Click 'Disable Inheritance' and 'Remove all inherited permissions'.            
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/Q6BugTD.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Click 'Add'.             
+</p>
+<br />

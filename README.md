@@ -277,3 +277,11 @@ Enable 'php_intl.dll'.
 Enable 'php_opcache.dll'.       
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/wW3M9CY.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Refresh osTicket in browser and observe changes.        
+</p>
+<br />

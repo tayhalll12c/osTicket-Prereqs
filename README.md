@@ -53,3 +53,11 @@ Inside the virtual machine, open control panel, navigate to the features panel, 
 Use the dropdown boxes to navigate to CGI, and enable it. This is necessary for the installation of PHP manager. Then, click the 'OK' button. 
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/0ojkvxH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Install PHP manager. In this case, an installation file was provided by an instructor. 
+</p>
+<br />

@@ -349,3 +349,11 @@ Check the 'Full control' box and then click 'OK'.
 Click 'Apply'.              
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/RL0GvQK.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Click 'Continue' on the osTicket website.              
+</p>
+<br />

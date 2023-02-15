@@ -325,3 +325,11 @@ Click 'Disable Inheritance' and 'Remove all inherited permissions'.
 Click 'Add'.             
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/CrXqXKg.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Click 'Select a principal', type "everyone" in the object name bar, click 'Check Names' and then click 'OK'.             
+</p>
+<br />

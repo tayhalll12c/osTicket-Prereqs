@@ -341,3 +341,11 @@ Click 'Select a principal', type "everyone" in the object name bar, click 'Check
 Check the 'Full control' box and then click 'OK'.              
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/A71yZUl.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Click 'Apply'.              
+</p>
+<br />

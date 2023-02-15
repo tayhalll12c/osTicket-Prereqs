@@ -71,7 +71,7 @@ Install 'rewrite' module. (also provided by instructor)
 <br />
 
 <p>
-<img src="https://i.imgur.com/ZfnK7bi.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZfnK7bi.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Create a new folder in the C: drive titled "PHP" 

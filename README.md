@@ -133,3 +133,11 @@ In the Configuration Wizard, select 'Standard Configuration'.
 Install as Windows Service.    
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/G24ZpES.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Type in a password that you will remember later.     
+</p>
+<br />

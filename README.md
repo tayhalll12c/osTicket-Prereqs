@@ -103,7 +103,7 @@ Open MySQL 5.5 setup wizard (also provided by instructor)
 <br />
 
 <p>
-<img src="https://i.imgur.com/nJFHrQa.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/sfX4tN9.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Select the 'Typical' installation box.   

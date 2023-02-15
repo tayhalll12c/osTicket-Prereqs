@@ -269,3 +269,11 @@ Enable 'php_imap.dll'.
 Enable 'php_intl.dll'.       
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/0jdWVvH.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Enable 'php_opcache.dll'.       
+</p>
+<br />

@@ -333,3 +333,11 @@ Click 'Add'.
 Click 'Select a principal', type "everyone" in the object name bar, click 'Check Names' and then click 'OK'.             
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/F96vVcQ.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Check the 'Full control' box and then click 'OK'.              
+</p>
+<br />

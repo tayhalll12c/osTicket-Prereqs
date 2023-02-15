@@ -375,7 +375,7 @@ Type in the remaining credentials. (image contains samples)
 <br />
 
 <p>
-<img src="https://i.imgur.com/Y4sFwAg.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Y4sFwAg.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Install HeidiSQL (file provided by instructor) which in this case acts as a database client.                

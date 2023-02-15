@@ -213,3 +213,11 @@ Inside the osTicket file, drag its 'upload' folder into the following destinatio
 Rename 'upload' folder to "osTicket".      
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/0hfnQUp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Restart the server again.       
+</p>
+<br />

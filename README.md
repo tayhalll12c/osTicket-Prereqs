@@ -221,3 +221,11 @@ Rename 'upload' folder to "osTicket".
 Restart the server again.       
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/mGMOdNj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Under the dropdown menu, click 'osTicket' and then click 'Browse *:80'.      
+</p>
+<br />

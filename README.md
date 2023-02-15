@@ -295,7 +295,7 @@ In the following destination, select this file.
 <br />
 
 <p>
-<img src="https://i.imgur.com/BFPFW8c.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NnyIRgp.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Rename the file to remove the word "sample".          

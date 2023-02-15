@@ -159,7 +159,7 @@ Run IIS as an administrator.
 <br />
 
 <p>
-<img src="https://i.imgur.com/1ZGhjQw.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1ZGhjQw.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Click 'PHP Manager'.      

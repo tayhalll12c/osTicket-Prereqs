@@ -165,3 +165,11 @@ Run IIS as an administrator.
 Click 'PHP Manager'.      
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/eMvduh5.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Click 'Register new PHP version'.       
+</p>
+<br />

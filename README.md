@@ -69,3 +69,11 @@ Install PHP manager. In this case, an installation file was provided by an instr
 Install 'rewrite' module. (also provided by instructor) 
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/ZfnK7bi.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Create a new folder in the C: drive titled "PHP" 
+</p>
+<br />

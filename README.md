@@ -231,7 +231,7 @@ Under the dropdown menu, click 'osTicket' and then click 'Browse *:80'.
 <br />
 
 <p>
-<img src="https://i.imgur.com/mBzUGV7.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mBzUGV7.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 This page will appear in a browser. Some extensions are still required in order to ensure full functionality of osTicket.       

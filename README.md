@@ -141,3 +141,11 @@ Install as Windows Service.
 Type in a password that you will remember later.     
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/ZOmJgs2.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Select 'Execute' and finish the Configuration.      
+</p>
+<br />

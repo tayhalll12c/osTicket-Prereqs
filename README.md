@@ -61,3 +61,11 @@ Use the dropdown boxes to navigate to CGI, and enable it. This is necessary for 
 Install PHP manager. In this case, an installation file was provided by an instructor. 
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/WfaJXxK.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Install 'rewrite' module. (also provided by instructor) 
+</p>
+<br />

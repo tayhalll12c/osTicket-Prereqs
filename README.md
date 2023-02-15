@@ -357,3 +357,11 @@ Click 'Apply'.
 Click 'Continue' on the osTicket website.              
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/BSP55qs.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Type in a helpdesk name and email. In this case, both are samples.               
+</p>
+<br />

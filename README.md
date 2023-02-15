@@ -125,3 +125,11 @@ Click 'Finish' and launch the MySQL Instance Configuration Wizard.
 In the Configuration Wizard, select 'Standard Configuration'.   
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/E9JDFQ1.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Install as Windows Service.    
+</p>
+<br />

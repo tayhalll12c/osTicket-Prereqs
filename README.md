@@ -261,3 +261,11 @@ Click 'Enable or disable an extension'.
 Enable 'php_imap.dll'.       
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/usqTeQk.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Enable 'php_intl.dll'.       
+</p>
+<br />

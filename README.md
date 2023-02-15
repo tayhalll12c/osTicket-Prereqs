@@ -253,3 +253,11 @@ Click 'PHP Manager' in osTicket Home.
 Click 'Enable or disable an extension'.       
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/IMvHx05.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Enable 'php_imap.dll'.       
+</p>
+<br />

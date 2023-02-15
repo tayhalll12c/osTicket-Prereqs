@@ -287,7 +287,7 @@ Refresh osTicket in browser and observe changes.
 <br />
 
 <p>
-<img src="https://i.imgur.com/BFPFW8c.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/BFPFW8c.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In the following destination, select this file.         
@@ -295,7 +295,7 @@ In the following destination, select this file.
 <br />
 
 <p>
-<img src="https://i.imgur.com/NnyIRgp.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NnyIRgp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Rename the file to remove the word "sample".          

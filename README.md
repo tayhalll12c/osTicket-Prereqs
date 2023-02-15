@@ -394,6 +394,13 @@ Click 'New'.
 <img src="https://i.imgur.com/kWBxEMf.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Type in the credentials from the MySQL configuration wizard from earlier. In this case, the username is "root" and whichever password was created. Then, click 'Open'.                
+Type in the credentials from the MySQL configuration wizard from earlier. In this case, the username is "root" and whichever password was created. Then, click 'Open'. </p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/qIxNeI9.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Add the username and password on the osTicket installation page. 
 </p>
 <br />

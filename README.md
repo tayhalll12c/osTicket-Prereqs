@@ -398,7 +398,7 @@ Type in the credentials from the MySQL configuration wizard from earlier. In thi
 <br />
 
 <p>
-<img src="https://i.imgur.com/qIxNeI9.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/qIxNeI9.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Add the username and password on the osTicket installation page. 

@@ -351,7 +351,7 @@ Click 'Apply'.
 <br />
 
 <p>
-<img src="https://i.imgur.com/RL0GvQK.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/RL0GvQK.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Click 'Continue' on the osTicket website.              

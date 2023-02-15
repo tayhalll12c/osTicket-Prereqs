@@ -77,3 +77,11 @@ Install 'rewrite' module. (also provided by instructor)
 Create a new folder in the C: drive titled "PHP" 
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/vpcWebt.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Install PHP 7.3.8 files (also provided by instructor) and extract contents into PHP folder that was created in C: drive  
+</p>
+<br />

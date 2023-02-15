@@ -309,3 +309,11 @@ Rename the file to remove the word "sample".
 In security properties for the file, click 'Advanced'.           
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/z3gUJJB.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Click 'Disable Inheritance' and 'Remove all inherited permissions'.            
+</p>
+<br />

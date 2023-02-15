@@ -381,3 +381,11 @@ Type in the remaining credentials. (image contains samples)
 Install HeidiSQL (file provided by instructor) which in this case acts as a database client.                
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/i6EFWrx.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Click 'New'.                 
+</p>
+<br />

@@ -245,3 +245,11 @@ This page will appear in a browser. Some extensions are still required in order 
 Click 'PHP Manager' in osTicket Home.       
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/THWevYr.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Click 'Enable or disable an extension'.       
+</p>
+<br />

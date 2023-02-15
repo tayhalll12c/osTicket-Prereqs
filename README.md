@@ -197,3 +197,11 @@ Make sure the name of the server is highlighted, and then click 'Restart'.
 Install osTicket file (provided by instructor in this case)       
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/SfhuGjl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Inside the osTicket file, drag its 'upload' folder into the following destination: C:> inetpub> wwwroot       
+</p>
+<br />

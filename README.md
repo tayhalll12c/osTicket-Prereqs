@@ -444,3 +444,11 @@ osTicket has been installed.
 Delete the folder titled "setup" in the following destination.     
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/Ysev6rD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Re-open properties for the 'ost-config' file that was previously renamed.   
+</p>
+<br />

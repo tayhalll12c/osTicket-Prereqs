@@ -452,3 +452,11 @@ Delete the folder titled "setup" in the following destination.
 Re-open properties for the 'ost-config' file that was previously renamed.   
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/UEuf1B1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Click 'Edit' in advanced security settings while 'Everyone' is selected.   
+</p>
+<br />

@@ -436,3 +436,11 @@ Type the database name "osTicket" and then click 'Install Now'
 osTicket has been installed.    
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/1pGbVau.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Delete the folder titled "setup" in the following destination.     
+</p>
+<br />

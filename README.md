@@ -412,3 +412,11 @@ Add the username and password on the osTicket installation page.
 Right-click 'Unnamed', hover over 'Create new' and then click 'Database'. 
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/Z3A6mLn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Name the database "osTicket" and then click 'OK'.  
+</p>
+<br />

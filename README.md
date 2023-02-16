@@ -404,3 +404,11 @@ Type in the credentials from the MySQL configuration wizard from earlier. In thi
 Add the username and password on the osTicket installation page. 
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/Q9b2hif.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Right-click 'Unnamed', hover over 'Create new' and then click 'Database'. 
+</p>
+<br />

@@ -420,3 +420,19 @@ Right-click 'Unnamed', hover over 'Create new' and then click 'Database'.
 Name the database "osTicket" and then click 'OK'.  
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/I0mv1Lk.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Type the database name "osTicket" and then click 'Install Now'   
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/crtCPz4.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+osTicket has been installed.    
+</p>
+<br />

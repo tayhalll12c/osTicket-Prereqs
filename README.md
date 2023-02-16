@@ -460,3 +460,11 @@ Re-open properties for the 'ost-config' file that was previously renamed.
 Click 'Edit' in advanced security settings while 'Everyone' is selected.   
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/CHXX45A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Change the permissions to only allow 'Read' and 'Read & Execute' and then apply the changes.   
+</p>
+<br />

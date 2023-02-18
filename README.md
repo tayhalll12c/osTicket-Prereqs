@@ -23,10 +23,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Windows 10 Virtual Machine with 2-4 Virtual CPUs 
-- Windows IIS with CGI
-- PHP Manager for IIS
-- Item 4
-- Item 5
+- Installation of Windows IIS with CGI
+- Installation of PHP Manager for IIS
+- Installation of additional PHP files 
+- Installation of MySQL 5.5.62
+- Installation of HeidiSQL
+- Setup of osTicket in browser 
 
 <h2>Installation Steps</h2>
 

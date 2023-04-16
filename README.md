@@ -56,7 +56,7 @@ Use the dropdown boxes to navigate to CGI, and enable it. This is necessary for 
 <img src="https://i.imgur.com/0ojkvxH.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Install PHP manager. In this case, an installation file was provided by an instructor. 
+Install PHP manager.  
 </p>
 <br />
 
@@ -64,7 +64,7 @@ Install PHP manager. In this case, an installation file was provided by an instr
 <img src="https://i.imgur.com/WfaJXxK.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Install 'rewrite' module. (also provided by instructor) 
+Install 'rewrite' module.  
 </p>
 <br />
 
@@ -80,7 +80,7 @@ Create a new folder in the C: drive titled "PHP"
 <img src="https://i.imgur.com/vpcWebt.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Install PHP 7.3.8 files (also provided by instructor) and extract contents into PHP folder that was created in C: drive  
+Install PHP 7.3.8 files and extract contents into PHP folder that was created in C: drive  
 </p>
 <br />
 
@@ -88,7 +88,7 @@ Install PHP 7.3.8 files (also provided by instructor) and extract contents into 
 <img src="https://i.imgur.com/4IO4z8i.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Install Microsoft Visual C++ Redistributable (also provided by instructor) 
+Install Microsoft Visual C++ Redistributable.
 </p>
 <br />
 
@@ -96,7 +96,7 @@ Install Microsoft Visual C++ Redistributable (also provided by instructor)
 <img src="https://i.imgur.com/nJFHrQa.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Open MySQL 5.5 setup wizard (also provided by instructor)  
+Open MySQL 5.5 setup wizard.  
 </p>
 <br />
 
@@ -192,7 +192,7 @@ Make sure the name of the server is highlighted, and then click 'Restart'.
 <img src="https://i.imgur.com/Fnd7otC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Install osTicket file (provided by instructor in this case)       
+Install osTicket file.       
 </p>
 <br />
 
@@ -376,7 +376,7 @@ Type in the remaining credentials. (image contains samples)
 <img src="https://i.imgur.com/Y4sFwAg.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Install HeidiSQL (file provided by instructor) which in this case acts as a database client.                
+Install HeidiSQL which in this case acts as a database client.                
 </p>
 <br />
 
